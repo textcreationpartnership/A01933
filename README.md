@@ -35,9 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December 
+
+1. TO THE IMPERIALL MAIESTY of GREAT BRITAINES Monarch JAMES &c.
+
+1. Sereniſſ. BRITANNIARVM Maieſtati XAĪPE COELESTE.
+
+1. Errata.
+
+1. DEO OPT: MAX: SACRUM.
+Cometae qui effulſit Anno 1618 deſcriptio a 18 Nou: ad 16 Decemb.
 #####Body#####
-An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December 
+
+1. An aſtronomicall Deſcription of the late Comet, or blazing-ſtar.
+
+1. MORALL PROGNOSTICKS or Applications of the late Comet or Blazing-Starre.
+
 **Types of content**
 
   * There are 67 **verse** lines!
